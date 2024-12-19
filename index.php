@@ -1,7 +1,4 @@
-ini_set('display_errors', 1);
-error_reporting(E_ALL);
 
-php -S localhost:8000
 
 <!DOCTYPE html>
 <html>
